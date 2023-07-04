@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alex/Documents/Study/Library/C#/practice/lesson01/lesson01.csproj",
+      "projectUniqueName": "/Users/alex/Documents/Study/Library/CS/practice/lesson01/lesson01.csproj",
       "projectName": "lesson01",
-      "projectPath": "/Users/alex/Documents/Study/Library/C#/practice/lesson01/lesson01.csproj",
+      "projectPath": "/Users/alex/Documents/Study/Library/CS/practice/lesson01/lesson01.csproj",
       "packagesPath": "/Users/alex/.nuget/packages/",
-      "outputPath": "/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/",
+      "outputPath": "/Users/alex/Documents/Study/Library/CS/practice/lesson01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alex/.nuget/NuGet/NuGet.Config"
