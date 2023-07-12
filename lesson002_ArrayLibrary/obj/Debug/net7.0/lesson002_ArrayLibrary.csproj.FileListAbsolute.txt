@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/bin/Debug/net7.0/lesson002_ArrayLibrary
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/bin/Debug/net7.0/lesson002_ArrayLibrary.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/bin/Debug/net7.0/lesson002_ArrayLibrary.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/bin/Debug/net7.0/lesson002_ArrayLibrary.dll
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/bin/Debug/net7.0/lesson002_ArrayLibrary.pdb
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.dll
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/refint/lesson002_ArrayLibrary.dll
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.pdb
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/lesson002_ArrayLibrary.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_ArrayLibrary/obj/Debug/net7.0/ref/lesson002_ArrayLibrary.dll

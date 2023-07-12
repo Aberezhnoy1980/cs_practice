@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/bin/Debug/net7.0/example002_HelloUser
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/bin/Debug/net7.0/example002_HelloUser.deps.json
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/bin/Debug/net7.0/example002_HelloUser.runtimeconfig.json
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/bin/Debug/net7.0/example002_HelloUser.dll
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/bin/Debug/net7.0/example002_HelloUser.pdb
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.dll
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/refint/example002_HelloUser.dll
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.pdb
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/example002_HelloUser.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/C#/practice/example002_HelloUser/obj/Debug/net7.0/ref/example002_HelloUser.dll

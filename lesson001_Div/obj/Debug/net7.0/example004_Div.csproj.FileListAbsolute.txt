@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/bin/Debug/net7.0/example004_Div
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/bin/Debug/net7.0/example004_Div.deps.json
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/bin/Debug/net7.0/example004_Div.runtimeconfig.json
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/bin/Debug/net7.0/example004_Div.dll
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/bin/Debug/net7.0/example004_Div.pdb
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.dll
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/refint/example004_Div.dll
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.pdb
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/example004_Div.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/C#/practice/example004_Div/obj/Debug/net7.0/ref/example004_Div.dll

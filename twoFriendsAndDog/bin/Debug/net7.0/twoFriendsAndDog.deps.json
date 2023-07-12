@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "twoFriendsAndDog/1.0.0": {
+        "runtime": {
+          "twoFriendsAndDog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "twoFriendsAndDog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

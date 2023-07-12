@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/bin/Debug/net7.0/seminar002_CheckNumber
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/bin/Debug/net7.0/seminar002_CheckNumber.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/bin/Debug/net7.0/seminar002_CheckNumber.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/bin/Debug/net7.0/seminar002_CheckNumber.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/bin/Debug/net7.0/seminar002_CheckNumber.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/refint/seminar002_CheckNumber.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/seminar002_CheckNumber.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar002_CheckNumber/obj/Debug/net7.0/ref/seminar002_CheckNumber.dll

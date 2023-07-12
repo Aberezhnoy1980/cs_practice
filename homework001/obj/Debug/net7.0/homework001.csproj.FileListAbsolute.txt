@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/homework001/bin/Debug/net7.0/homework001
+/Users/alex/Documents/Study/Library/CS/practice/homework001/bin/Debug/net7.0/homework001.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/homework001/bin/Debug/net7.0/homework001.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/homework001/bin/Debug/net7.0/homework001.dll
+/Users/alex/Documents/Study/Library/CS/practice/homework001/bin/Debug/net7.0/homework001.pdb
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.dll
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/refint/homework001.dll
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.pdb
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/homework001.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/homework001/obj/Debug/net7.0/ref/homework001.dll

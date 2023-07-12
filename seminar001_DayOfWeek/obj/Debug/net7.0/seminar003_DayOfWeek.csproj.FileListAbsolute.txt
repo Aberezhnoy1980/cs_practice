@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/bin/Debug/net7.0/seminar003_DayOfWeek
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/bin/Debug/net7.0/seminar003_DayOfWeek.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/bin/Debug/net7.0/seminar003_DayOfWeek.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/bin/Debug/net7.0/seminar003_DayOfWeek.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/bin/Debug/net7.0/seminar003_DayOfWeek.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/refint/seminar003_DayOfWeek.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/seminar003_DayOfWeek.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar003_DayOfWeek/obj/Debug/net7.0/ref/seminar003_DayOfWeek.dll

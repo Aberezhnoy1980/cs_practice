@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/bin/Debug/net6.0/lesson01
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/bin/Debug/net6.0/lesson01.deps.json
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/bin/Debug/net6.0/lesson01.runtimeconfig.json
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/bin/Debug/net6.0/lesson01.dll
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/bin/Debug/net6.0/lesson01.pdb
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.dll
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/refint/lesson01.dll
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.pdb
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/lesson01.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/C#/practice/lesson01/obj/Debug/net6.0/ref/lesson01.dll

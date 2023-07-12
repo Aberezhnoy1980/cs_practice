@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/bin/Debug/net7.0/seminar004_task7
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/bin/Debug/net7.0/seminar004_task7.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/bin/Debug/net7.0/seminar004_task7.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/bin/Debug/net7.0/seminar004_task7.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/bin/Debug/net7.0/seminar004_task7.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/refint/seminar004_task7.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/seminar004_task7.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar004_task7/obj/Debug/net7.0/ref/seminar004_task7.dll

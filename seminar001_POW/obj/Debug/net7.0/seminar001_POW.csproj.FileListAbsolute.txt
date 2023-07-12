@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/bin/Debug/net7.0/seminar001_POW
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/bin/Debug/net7.0/seminar001_POW.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/bin/Debug/net7.0/seminar001_POW.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/bin/Debug/net7.0/seminar001_POW.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/bin/Debug/net7.0/seminar001_POW.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/refint/seminar001_POW.dll
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.pdb
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/seminar001_POW.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/seminar001_POW/obj/Debug/net7.0/ref/seminar001_POW.dll

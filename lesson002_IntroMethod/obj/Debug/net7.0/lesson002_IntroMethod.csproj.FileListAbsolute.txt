@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/bin/Debug/net7.0/lesson002_IntroMethod
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/bin/Debug/net7.0/lesson002_IntroMethod.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/bin/Debug/net7.0/lesson002_IntroMethod.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/bin/Debug/net7.0/lesson002_IntroMethod.dll
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/bin/Debug/net7.0/lesson002_IntroMethod.pdb
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.dll
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/refint/lesson002_IntroMethod.dll
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.pdb
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/lesson002_IntroMethod.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/lesson002_IntroMethod/obj/Debug/net7.0/ref/lesson002_IntroMethod.dll

@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/bin/Debug/net7.0/twoFriendsAndDog
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/bin/Debug/net7.0/twoFriendsAndDog.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/bin/Debug/net7.0/twoFriendsAndDog.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/bin/Debug/net7.0/twoFriendsAndDog.dll
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/bin/Debug/net7.0/twoFriendsAndDog.pdb
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.dll
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/refint/twoFriendsAndDog.dll
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.pdb
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/twoFriendsAndDog.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/twoFriendsAndDog/obj/Debug/net7.0/ref/twoFriendsAndDog.dll

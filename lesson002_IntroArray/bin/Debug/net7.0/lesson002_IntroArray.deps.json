@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "lesson002_IntroArray/1.0.0": {
+        "runtime": {
+          "lesson002_IntroArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lesson002_IntroArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

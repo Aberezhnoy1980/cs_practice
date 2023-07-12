@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "seminar002_CheckNumber/1.0.0": {
+        "runtime": {
+          "seminar002_CheckNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "seminar002_CheckNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

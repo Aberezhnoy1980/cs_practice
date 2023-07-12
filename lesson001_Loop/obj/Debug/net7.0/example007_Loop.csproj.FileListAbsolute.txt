@@ -1,0 +1,15 @@
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/bin/Debug/net7.0/example007_Loop
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/bin/Debug/net7.0/example007_Loop.deps.json
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/bin/Debug/net7.0/example007_Loop.runtimeconfig.json
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/bin/Debug/net7.0/example007_Loop.dll
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/bin/Debug/net7.0/example007_Loop.pdb
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.csproj.AssemblyReference.cache
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.AssemblyInfoInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.AssemblyInfo.cs
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.dll
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/refint/example007_Loop.dll
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.pdb
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/example007_Loop.genruntimeconfig.cache
+/Users/alex/Documents/Study/Library/CS/practice/example007_Loop/obj/Debug/net7.0/ref/example007_Loop.dll
